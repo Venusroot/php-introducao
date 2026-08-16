@@ -25,6 +25,6 @@ Git e GitHub
 
 Praticar os fundamentos do desenvolvimento web e desenvolver conhecimentos em PHP por meio de exercícios e atividades práticas propostas na disciplina.
 
-📌 Projeto acadêmico — FATEC Mauá
+📌 Projeto acadêmico - FATEC Mauá
 💻 Desenvolvimento de Software Multiplataforma (DSM)
 📚 Desenvolvimento Web II
